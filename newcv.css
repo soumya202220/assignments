@@ -1,0 +1,49 @@
+
+
+    
+    
+
+
+.heading{
+    color: black;
+    text-align:center;
+    margin-top:3%;
+}
+
+
+
+
+div.button{
+    color: #fff;
+    
+
+}
+ul.link{
+display: inline;
+display: flex;
+margin-left: 40%;
+list-style: none;
+
+
+}
+#login{
+margin-left: 46%;
+}
+.fp{
+    margin-left: 46%;
+    margin-: 45%;
+}
+div.button{
+    margin-left: 46%;
+}
+body{
+    background-color: blueviolet;}
+    img{
+        border-radius: 50%;
+        margin-left: 48%;
+    }
+.rm{
+    margin-left: 46%;
+}
+
+

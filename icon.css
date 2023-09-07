@@ -1,0 +1,22 @@
+img{
+    width: 2%;
+    height: 1%;}
+    button{
+        background-color: green;
+        color: azure;
+        text-align: center;
+       
+        
+    }
+    .s{margin-top: 1%;
+    margin-left: 17%;}
+    input[type=submit] {
+        background-color: #50d195;
+        border: none;
+        color: #fff;
+        padding: 15px 30px;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+        margin-left: 55px;
+      }
