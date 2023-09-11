@@ -1,0 +1,38 @@
+.image{
+    margin-left: 72%;
+    margin-top: -11%;
+    height: 28%;
+    width: 25%;
+
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  ul.link{
+    display: inline;
+    display: flex;
+   margin-left: 90px;
+   margin-top: 10px;
+    list-style: none;
+    
+    
+    }
+    a{margin-right: 300px;
+   }
+   .area{
+    margin-top: -105px;
+   }
+   body{
+    background-color: antiquewhite;
+   }
+   img{
+    background-color: antiquewhite;
+   }
+  
+  .border2 {
+    border-width: thin;
+    border-style: solid;
+  }
