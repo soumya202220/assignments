@@ -1,0 +1,19 @@
+
+.box{
+    background-color: rgb(190, 195, 216);
+    width: 12%;
+    height: 50%;
+    margin-left: 40%;
+    margin-top:10% ;
+}
+#v{
+    margin-left: 40%;
+    background-color: rgb(190, 195, 216);
+    
+    
+}
+.ad{
+    margin-left: 40%;
+    background-color: rgb(190, 195, 216); 
+    width: 12%;
+}

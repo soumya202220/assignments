@@ -1,0 +1,9 @@
+body{
+    background-image: url('black.jpg');
+}
+p{
+    color: aliceblue;
+}
+#but{
+    margin-right: 25%;
+}
